@@ -1,0 +1,17 @@
+{
+  "name": "@lundiak/my-progress-bars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^1.6.1",
+    "clui": "^0.3.6",
+    "progress": "^2.0.0",
+    "single-line-log": "^1.1.2"
+  }
+}
